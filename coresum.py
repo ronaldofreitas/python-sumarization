@@ -10,7 +10,7 @@ import math
 import nltk
 import networkx as nx
 
-#nltk.download('punkt')
+nltk.download('punkt')
 # a primeira vez que usar, vai precisar fazer o download do recurso 'punkt'
 #[nltk_data] Downloading package punkt to /home/ronaldo/nltk_data...
 #[nltk_data]   Unzipping tokenizers/punkt.zip.
