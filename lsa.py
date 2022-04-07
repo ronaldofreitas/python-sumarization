@@ -7,7 +7,7 @@ from sumy.parsers.plaintext import PlaintextParser
 from sumy.nlp.tokenizers import Tokenizer
 from sumy.summarizers.lsa import LsaSummarizer
 
-parser = PlaintextParser.from_file("texto.txt", Tokenizer('portuguese'))
+parser = PlaintextParser.from_file("./texto-2.txt", Tokenizer('portuguese'))
 
 summarizer = LsaSummarizer()
 summary =summarizer(parser.document,1)

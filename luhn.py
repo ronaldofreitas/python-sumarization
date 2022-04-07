@@ -7,7 +7,8 @@ from sumy.parsers.plaintext import PlaintextParser
 from sumy.nlp.tokenizers import Tokenizer
 from sumy.summarizers.luhn import LuhnSummarizer
 
-parser = PlaintextParser.from_file("texto.txt", Tokenizer('portuguese'))
+parser = PlaintextParser.from_file("./texto-2.txt", Tokenizer('portuguese'))
+#parser = PlaintextParser.from_file("texto.txt", Tokenizer('portuguese'))
 #parser = PlaintextParser.from_string(txt, Tokenizer('portuguese'))
 
 sumarizador = LuhnSummarizer()

@@ -1,6 +1,6 @@
 import coresum
 
-f = open("texto.txt", "r")
+f = open("./texto-2.txt", "r")
 txt = f.read()
 
 t = coresum.Texto(txt)

@@ -6,7 +6,7 @@ from sumy.parsers.plaintext import PlaintextParser
 from sumy.nlp.tokenizers import Tokenizer
 from sumy.summarizers.text_rank import TextRankSummarizer
 
-parser = PlaintextParser.from_file("texto.txt", Tokenizer('portuguese'))
+parser = PlaintextParser.from_file("./texto-2.txt", Tokenizer('portuguese'))
 summarizer = TextRankSummarizer()
 summary = summarizer(parser.document, 1)
 

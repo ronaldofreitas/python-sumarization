@@ -7,7 +7,8 @@ from sumy.parsers.plaintext import PlaintextParser
 from sumy.nlp.tokenizers import Tokenizer
 from sumy.summarizers.lex_rank import LexRankSummarizer 
 
-parser = PlaintextParser.from_file("texto.txt", Tokenizer('portuguese'))
+parser = PlaintextParser.from_file("./texto-2.txt", Tokenizer('portuguese'))
+
 summarizer = LexRankSummarizer()
 summary = summarizer(parser.document, 1)
 
