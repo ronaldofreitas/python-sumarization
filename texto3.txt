@@ -137,7 +137,7 @@ Com a aquisição, o PicPay passa a absorver totalmente a operação do Guiabols
 
     Segundo Eduardo Chedid, VP de Serviços Financeiros do PicPay, o negócio também está alinhado ao propósito de democratização do crédito do PicPay, uma marca importante da atuação da companhia que, assim como o Guiabolso, foi fundada em 2012. 
 
-    “O Guiabolso e o PicPay são líderes da transformação pela qual o sistema financeiro vem passando e agora, juntos, vão dar mais um passo na missão de melhorar a relação das pessoas com o dinheiro e revolucionar o sistema financeiro brasileiro”, conta Thiago Alvarez, fundador do Guiabolso, e que se juntará ao time do PicPay como diretor responsável por Open Banking.
+    O Guiabolso e o PicPay são líderes da transformação pela qual o sistema financeiro vem passando e agora, juntos, vão dar mais um passo na missão de melhorar a relação das pessoas com o dinheiro e revolucionar o sistema financeiro brasileiro, conta Thiago Alvarez, fundador do Guiabolso, e que se juntará ao time do PicPay como diretor responsável por Open Banking.
 
 O Guiabolso nasceu com a missão de melhorar a saúde financeira dos seus usuários e transformar o sistema financeiro brasileiro. 
 
@@ -157,3 +157,44 @@ A Lei Geral de Proteção de Dados Pessoais, LGPD, é peça fundamental para a s
 O custo dos serviços bancários e do crédito vão diminuir com o Open Banking?
 
 É bem provável que haja um cenário positivo em termos de custos para os consumidores, já que existe uma tendência a um aumento da competitividade do mercado e a possibilidade de realizar a comparação das contas de diferentes instituições e seus respectivos produtos financeiros. 
+
+Desta forma, a proposta é que o usuário passe a ter visão de toda a sua vida financeira em um só lugar e com acesso aos produtos mais adequados ao seu perfil e com taxas mais atrativas.
+Qual a importância do Open Banking neste momento?
+
+A chegada e a manutenção do cronograma de regulamentação é um movimento positivo para o mercado brasileiro. 
+
+A chegada do Open Banking permite uma rica troca de dados em tempo real que proporciona uma avaliação mais rápida e precisa sobre a saúde financeira de um negócio. 
+
+Com o novo sistema, é possível conhecer a saúde de um negócio, seu nível de liquidez bem como seus fluxos de caixa.
+
+O Open Banking se torna uma ferramenta vital para garantir que as empresas possam mitigar os riscos criados durante a pandemia e fornecer de maneira eficiente uma recuperação econômica robusta. 
+
+À medida que o open banking consiga, efetivamente, democratizar o acesso de empresas aos clientes e o acesso de clientes a mais produtos e serviços, então haverá uma efetiva redução de custos para o cliente, como crédito e financiamentos. 
+Como vai funcionar o compartilhamento de dados do Open Banking? 
+
+Todo o processo de pedir o compartilhamento de dados pessoais de uma instituição para outra será padronizado, ou seja, terá a mesma lógica. 
+
+Cada instituição poderá personalizar apenas recursos adicionais, como suas cores ou uma camada de segurança extra. Os clientes sempre precisarão solicitar o dado que desejam compartilhar na instituição recebedora da informação. 
+
+O compartilhamento de dados para empresas funcionará da seguinte maneira: quando o usuário acessar a fintech e der seu consentimento, a fintech vai se conectar ao banco informando que um pedido de compartilhamento de dados foi feito.
+Será possível cancelar um compartilhamento de dados?
+
+O Open Banking tem a garantia de cancelamento. O usuário tem total independência para cancelar o compartilhamento quando quiser. 
+
+Se você sabe o que é Open Banking e não estiver satisfeito, bastará cancelar. Mesmo se quiser alterar algum ponto do compartilhamento já feito, será possível cancelar e fazer um novo sem problema nenhum. 
+As instituições podem usar os dados para qualquer coisa?
+
+Não. As instituições somente podem usar os dados para fins definidos e acordados com o usuário que solicitou o compartilhamento de determinada informação.
+Qual é a diferença entre Open Banking e Open Finance?
+
+O conceito Open Banking denota um escopo menor e está relacionado apenas aos bancos, enquanto que o conceito Open Finance possui um escopo maior incluindo diferentes segmentos financeiros.
+
+Apesar das diferenças entre os conceitos, o Brasil segue um escopo mais amplo, porém o nome dado pelo Banco Central segue sendo Open Banking.
+Tem que pagar para usar Open Banking?
+
+Não, ao consentir o compartilhamento dos seus dados com qualquer instituição não é necessário fazer o pagamento por isso.
+Todos os bancos terão Open Banking?
+
+Sim, caso queira conhecê-los, consulte a lista com as todas as instituições obrigatórias a participarem do Open Banking.
+
+Agora que você sabe tudo sobre open banking, que tal conferir mais dicas para cuidar das finanças? Confira nossos conteúdos com dicas para cuidar do seu dinheiro.
