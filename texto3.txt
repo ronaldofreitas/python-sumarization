@@ -1,0 +1,159 @@
+Você com certeza já ouviu falar, mas será que realmente sabe o que é Open Banking? O Open Banking, ou sistema bancário aberto, é uma regulamentação que prevê o compartilhamento de dados, produtos e serviços e também a integração entre plataformas financeiras, startups e fintechs. 
+
+Na prática, o Open Banking garante que, com a autorização prévia do consumidor, os dados bancários possam ser compartilhados com qualquer instituição, tudo por meio de integração de APIs, garantindo mais autonomia para o cliente final.
+
+Foi em janeiro de 2018 que essa nova regulamentação entrou em vigor na Europa e, no mesmo período, as discussões sobre a sua chegada no Brasil explodiram! Mas foi só em 2021 que o Banco Central decidiu colocar essa regulamentação em vigor.
+
+    Em março de 2022, o Banco Central ampliou o Open Banking, que passou a se chamar de Open Finance. Na prática, o Open Banking era restrito a dados e a serviços relacionados a produtos bancários tradicionais, enquanto o Open Finance prevê o compartilhamento de informações sobre outros serviços financeiros, entre eles investimentos, seguros e previdência.
+
+O que é Open Banking?
+
+O Open Banking, ou sistema financeiro aberto, é uma regulamentação que será implementada através de quatro fases no Brasil até o final de 2021.
+
+O Open Banking vai trazer a possibilidade de clientes de produtos e serviços financeiros permitirem o compartilhamento de suas informações entre diferentes instituições autorizadas pelo Banco Central. Ou seja, você passa a ser dono dos seus dados bancários e decide com quem deseja compartilhá-los.
+
+O conceito do Open Banking tem como base o princípio de que os dados gerados através de instituições financeiras pertencem ao usuário e não à instituição na qual eles estão armazenados.
+
+Apoiando-se nesse princípio fundamental, o Open Banking determina que as instituições participantes disponibilizem aos seus clientes uma forma eficiente e segura de compartilhar seus dados, se eles assim desejarem e autorizarem.
+Como o Open Banking influenciará a vida bancária do brasileiro?
+
+Historicamente, o mercado financeiro sempre funcionou da mesma forma: o usuário abre sua conta e todas as transações são realizadas dentro desta mesma empresa, mantendo todas as suas informações em posse desta instituição. 
+
+Agora que você sabe o que é Open Banking, pode entender como isso limita as oportunidades, aumenta as barreiras e direciona os produtos financeiros pela ótica da empresa, limitando preço, modo de oferta e operacionalização.
+
+O Open Banking surge para mudar essa realidade, já que as informações financeiras dos usuários pertencem a eles e não às instituições.
+
+Com isso, o usuário permite o compartilhamento de seus dados e suas movimentações financeiras, além de utilização de produtos e realização de serviços entre as instituições reguladas pelo Banco Central.
+
+Essa regulamentação abre um leque de possibilidades com outras instituições financeiras e, assim, o usuário pode ter mais autonomia sobre as suas decisões financeiras, já que não depende de uma única instituição.
+Quais as vantagens do Open Banking para quem usa serviços financeiros?
+
+Já que os dados, por muito tempo, foram posse de uma única instituição, os serviços foram vendidos de forma vertical, ou seja, estavam limitados à estrutura e funcionalidade de cada instituição financeira. Com o cenário do open banking, devemos experienciar uma horizontalidade nos serviços. 
+
+Além disso, as instituições financeiras devem passar a se concentrar mais em suas operações principais, o que possibilita que outras empresas tenham acesso às suas interfaces e desenvolvam novos produtos a partir disso.
+Entendi o que é Open Banking, mas qual é a história por trás dele?
+
+O conceito de Open Banking surgiu na Europa por volta de 2010 e começou a ser implementado na prática com a criação da segunda Diretiva de Serviços de Pagamento (PSD2), em 2018, uma atualização da Diretiva de Serviços de Pagamento (PSD1).
+
+Essa diretiva é a principal regulamentação do sistema de pagamentos europeu, contendo as regras básicas e requisitos para seu funcionamento. A PSD2 tem 4 objetivos principais:
+
+    Contribuir para o desenvolvimento de um mercado de pagamentos europeu mais integrado e eficiente;
+    Nivelar as condições de atuação dos provedores de serviço de pagamentos (incluindo a facilitação de entrada de novas empresas no mercado), ou seja, incentivar uma maior competição;
+    Tornar transações de pagamento mais seguras;
+    Proteger os consumidores.
+
+Tendo esses objetivos como foco, foi a PSD2 que determinou a abertura das informações bancárias entre as instituições europeias, se apoiando no princípio de que o dono desses dados é o cliente. 
+
+Portanto, foi ela que criou os pilares regulatórios para a definição do conceito de Open Banking e sua implementação no sistema financeiro europeu.
+Conheça as quatro fases do Open Banking
+
+O Open Banking será implementado de forma gradual em quatro fases. Confira o início de cada uma delas:
+Fase 1 – Fevereiro de 2021
+
+Informações sobre produtos e serviços.
+
+Na primeira fase há o compartilhamento dos canais de atendimento, localização das agências, produtos e serviços financeiros.
+Fase 2 – Agosto de 2021
+
+Inicia o compartilhamento de dados entre instituições.
+
+Na segunda fase, há o compartilhamento de dados pessoais e transacionais como, extrato da conta e cartão de crédito, empréstimos contratados e etc.
+Fase 3 – Outubro de 2021
+
+Inicia o compartilhamento de serviços de pagamento.
+
+Na terceira fase, é possível ter acesso a serviços de pagamentos e transferências fora do ambiente do banco.
+Fase 4 – Dezembro de 2021
+
+Expansão para outros produtos e serviços.
+
+Na última fase, será possível compartilhar outros dados de produtos e serviços, relacionados a operações de câmbio, investimentos, seguros e previdência.
+Quais instituições participam do Open Banking?
+
+Bancos, Instituições Financeiras, Instituições de Pagamentos. Fintechs, Corretoras de Investimentos, Corretoras de Seguros que funcionam sob regulamentação do Banco Central poderão participar, sendo divididas entre obrigatórias e não obrigatórias.
+
+Vale ressaltar que somente instituições reguladas pelo Banco Central podem participar do Open Banking no Brasil.
+Instituições obrigatórias do Open Banking
+
+As instituições classificadas como S1 e S2 têm participação obrigatória em todas as fases. As instituições S1 são aquelas que possuem porte igual ou superior a 10% do PIB ou que tenham atividade internacional relevante.
+
+Já as instituições S2 são aquelas que possuem entre 1% e 10% do PIB. Alguns exemplos são: Banco do Brasil, Caixa Econômica, Itaú, entre outros.
+
+Para a fase 3, é obrigatória a participação das instituições autorizadas a funcionar pelo Banco Central, que disponibilizem contas transacionais a seus clientes, mesmo não sendo S1 ou S2.
+Instituições não obrigatórias do Open Banking
+
+Aquelas instituições reguladas que não se enquadram nos critérios anteriores podem aderir ao Open Banking de forma voluntária, isto é, podem escolher se vão participar ou não.
+
+A tendência é que a maioria participe, já que elas obterão grandes benefícios com o sistema. O PicPay, por exemplo, é uma das instituições que vai participar.
+
+É importante lembrar que as empresas que aderirem voluntariamente terão o direito de receber dados de seus concorrentes, mas também serão obrigadas a compartilhar os dados de suas respectivas bases – quando os clientes consentirem – respeitando um princípio muito importante sobre o que é Open Banking, o da reciprocidade.
+Vantagens do Open Banking
+
+O grande objetivo das regulações de Open Banking ao redor do mundo é dar ao cliente maior liberdade e autonomia na hora de escolher com quem ele vai contratar um determinado produto ou serviço financeiro, aumentando a concorrência no mercado, ao nivelar o acesso à informação.
+
+Como assim? Vamos supor que um cliente tenha usado a vida inteira somente um banco. 
+
+Ao longo desses anos esse cliente criou um histórico de movimentações financeiras, incluindo contas pagas em dia, salários recebidos, parcelas de financiamentos e empréstimos, saldo em conta, saldo investido, entre outras.
+
+Essas informações são muito importantes para que instituições financeiras, fintechs etc. precifiquem e disponibilizem produtos e serviços financeiros para seus clientes. 
+
+Porém, atualmente, não é possível compartilhar essas informações com outras instituições. Se o cliente quiser mudar de banco, seus dados ficarão presos na instituição anterior e seu relacionamento com o novo banco terá que começar do zero, o que faz com que, ao menos no início, as condições ofertadas pelo novo banco geralmente sejam piores que as do anterior. 
+
+Ou seja, os clientes acabam ficando reféns dos bancos com quem possuem relacionamentos mais longos, favorecendo a concentração bancária.
+
+Ao compartilhar seus dados você terá inúmeros benefícios, como:
+Melhores condições na aquisição de produtos financeiros
+
+Com o Open Banking, as instituições serão capazes de oferecer a melhor oferta para o usuário, sendo cliente ou não, por exemplo, uma melhor taxa na contratação de empréstimo, um limite maior no cartão de crédito.
+Ofertas segmentadas e personalizadas
+
+Através do Open Banking, as instituições entenderão melhor qual o momento de vida financeiro de cada pessoa e poderá ofertar produtos direcionados para isso, exemplo, se você possui saldo positivo na conta e parado, poderá receber uma recomendação para investir ao invés de contratar um empréstimo.
+Maior acompanhamento e controle da sua vida financeira
+
+Sabendo o que é Open Banking, e como seus dados serão de sua autoridade e você terá o poder de decidir se deseja compartilhá-los com alguma instituição, terá maior visibilidade das suas entradas e saídas, facilitando a gestão do seu dinheiro.
+Como usar o Open Banking
+
+A partir de julho de 2021 as instituições obrigatórias e voluntárias do Open Banking incluirão em suas plataformas a possibilidade de compartilhar suas informações com outros participantes. Esse compartilhamento é chamado de gestão do consentimento.
+Gestão de consentimento
+
+A gestão do consentimento no Open Banking é o processo que permitirá que você compartilhe suas informações com as instituições. É possível inserir o tempo, quais dados e informações compartilhar e não compartilhar com as empresas.
+
+    Quais dados serão compartilhados no Open Banking;
+    Canais de atendimento;
+    Produtos e serviços das instituições;
+    Dados cadastrais;
+    Transações financeiras;
+    Operações de câmbio;
+    Dados de investimentos;
+    Dados de seguros.
+
+Open Banking no PicPay
+
+O PicPay, empresa de tecnologia e maior plataforma de pagamentos do Brasil, anunciou em julho de 2021 a aquisição do Guiabolso, precursor do Open Banking no Brasil.
+
+A aquisição tem o objetivo de posicionar o PicPay como protagonista do Open Banking, além de acelerar a nossa operação de marketplace financeiro da empresa, que já conta com cartão, crédito pessoal e empréstimo entre pessoas.
+
+Com a aquisição, o PicPay passa a absorver totalmente a operação do Guiabolso, que tem 6 milhões de usuários e R$ 1 bilhão em crédito concedido por meio de parceiros na plataforma.
+
+    Segundo Eduardo Chedid, VP de Serviços Financeiros do PicPay, o negócio também está alinhado ao propósito de democratização do crédito do PicPay, uma marca importante da atuação da companhia que, assim como o Guiabolso, foi fundada em 2012. 
+
+    “O Guiabolso e o PicPay são líderes da transformação pela qual o sistema financeiro vem passando e agora, juntos, vão dar mais um passo na missão de melhorar a relação das pessoas com o dinheiro e revolucionar o sistema financeiro brasileiro”, conta Thiago Alvarez, fundador do Guiabolso, e que se juntará ao time do PicPay como diretor responsável por Open Banking.
+
+O Guiabolso nasceu com a missão de melhorar a saúde financeira dos seus usuários e transformar o sistema financeiro brasileiro. 
+
+Para isso, a empresa inovou dentro da indústria financeira, partindo da premissa de que quem é dono dos dados financeiros é o usuário e que, com o compartilhamento deles, é possível ter acesso a uma gestão e produtos melhores do que no próprio banco. 
+
+Dessa forma, a fintech desenvolveu uma expertise sem precedentes em inteligência de dados e também foi precursora do movimento que está acontecendo agora com a chegada do open banking.
+
+Com a operação, o PicPay também passa a ser detentor de toda essa expertise tecnológica, de inteligência de dados e de execução do Open Banking. 
+O Open Banking é seguro?
+
+Sim. É importante entender que Open Banking não significa que os dados de todo mundo são públicos, mas sim, que as pessoas têm controle para compartilharem com quem e quando quiserem.
+
+Cada instituição participante do Open Banking é responsável por garantir a segurança do compartilhamento dos dados de seus clientes. Foram criados mecanismos para garantir a autenticidade e segurança das instituições participantes, que compartilharão os dados de forma criptografada.
+LGPD
+
+A Lei Geral de Proteção de Dados Pessoais, LGPD, é peça fundamental para a segurança do compartilhamento dos dados pelo Open Banking. Essa lei estabelece as normas sobre como as empresas coletam, processam, armazenam e destroem dados pessoais e sensíveis de seus clientes e usuários, visando melhorar a privacidade dessas informações.
+O custo dos serviços bancários e do crédito vão diminuir com o Open Banking?
+
+É bem provável que haja um cenário positivo em termos de custos para os consumidores, já que existe uma tendência a um aumento da competitividade do mercado e a possibilidade de realizar a comparação das contas de diferentes instituições e seus respectivos produtos financeiros. 
